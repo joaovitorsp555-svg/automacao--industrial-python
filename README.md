@@ -33,7 +33,7 @@ O sistema realiza a validação automática das peças com base em critérios de
 2. Baixe o projeto ou clone:
 
 ```
-git clone LINK_DO_SEU_REPOSITORIO https://github.com/joaovitorsp555-svg/automacao--industrial-python
+git clone https://github.com/joaovitorsp555-svg/automacao--industrial-python
 ```
 
 3. Execute:
