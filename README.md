@@ -1,17 +1,17 @@
 # Sistema de Automação de Controle de Peças
 
-## 📌 Descrição
+##  Descrição
 
 Sistema em Python para controle de qualidade de peças industriais, com validação automática e armazenamento em caixas.
 
-## ⚙️ Como executar
+##  Como executar
 
 1. Instale o Python
 2. Copie o código
 3. Execute no terminal:
    python nome_do_arquivo.py
 
-## 🧪 Exemplo de uso
+##  Exemplo de uso
 
 Entrada:
 Peso: 100
@@ -21,7 +21,7 @@ Comprimento: 15
 Saída:
 Peça APROVADA
 
-## 📊 Funcionalidades
+##  Funcionalidades
 
 * Cadastro de peças
 * Validação automática
