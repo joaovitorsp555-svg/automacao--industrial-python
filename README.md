@@ -1,17 +1,50 @@
-# Sistema de Automação de Controle de Peças
+# Sistema de Automação Industrial em Python
 
-##  Descrição
+## Sobre o projeto
 
-Sistema em Python para controle de qualidade de peças industriais, com validação automática e armazenamento em caixas.
+Este projeto simula um sistema de automação digital para controle de qualidade de peças em uma linha de produção industrial.
 
-##  Como executar
+O sistema realiza a validação automática das peças com base em critérios de qualidade, organiza o armazenamento em caixas e gera relatórios.
+
+---
+
+## Funcionalidades
+
+* Cadastro de peças
+* Validação automática (peso, cor e comprimento)
+* Classificação em aprovadas e reprovadas
+* Armazenamento em caixas (máx. 10 peças)
+* Relatórios completos
+* Menu interativo
+
+---
+
+## Regras de validação
+
+* Peso: entre 95g e 105g
+* Cor: azul ou verde
+* Comprimento: entre 10cm e 20cm
+
+---
+
+## Como executar
 
 1. Instale o Python
-2. Copie o código
-3. Execute no terminal:
-   python nome_do_arquivo.py
+2. Baixe o projeto ou clone:
 
-##  Exemplo de uso
+```
+git clone LINK_DO_SEU_REPOSITORIO
+```
+
+3. Execute:
+
+```
+python main.py
+```
+
+---
+
+## Exemplo
 
 Entrada:
 Peso: 100
@@ -21,10 +54,19 @@ Comprimento: 15
 Saída:
 Peça APROVADA
 
-##  Funcionalidades
+---
 
-* Cadastro de peças
-* Validação automática
-* Organização em caixas
-* Relatórios completos
+## Objetivo acadêmico
+
+Projeto desenvolvido para demonstrar conceitos de lógica de programação, automação e organização de dados em Python.
+
+---
+
+## Possíveis melhorias
+
+* Integração com sensores reais
+* Uso de inteligência artificial
+* Interface gráfica
+* Banco de dados
+
 
